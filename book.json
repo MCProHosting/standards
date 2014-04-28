@@ -1,0 +1,16 @@
+{
+    "output": "_book",
+
+    "generator": "site",
+
+    "title": "MCPH Code Standards",
+    "description": "This book is designed to document standards used at MCProHosting while developing in various languages, to ensure continuity throughout our software. You should read, memorize, and, most importantly, follow the sections of the book which are applicable to you.",
+
+    "github": null,
+
+    "githubHost": "https://github.com/",
+
+    "plugins": [],
+
+    "pluginsConfig": {}
+}
