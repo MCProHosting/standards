@@ -1,6 +1,7 @@
 # Summary
 
  * [General Guidelines](general/README.md)
+    * [Administrative](general/admin.md)
     * [Markdowns & Readmes](general/markdowns.md)
     * [Version Control](general/vcs.md)
     * [Unit Testing](general/unittesting.md)

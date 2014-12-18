@@ -1,6 +1,8 @@
 # General Guidelines
 
-Information in this section is generally applicable to all areas of development. Follow these, but not to your death; it may be necessary to change or adjust parts depending on the project and tasks set before you. As postulated in the Zen of Python, special cases aren't special enough to break the rules, but practicality beats purity.
+Information in this section is generally applicable to all areas of development. Follow these, but not to your death; it may be necessary to change or adjust parts depending on the project and tasks set before you. 
+
+Even though Matt doesn't like Python, the Zen of Python contains sage advice :)
 
 ```
 >>> import this
