@@ -18,6 +18,7 @@
  * Adrian Perez - Backend Engineer
  * Richard Smith - Backend Engineer
  * Hunter Skrasek - Backend Engineer
+ * Zack Bonebrake - Backend Engineer
 
 ### Operations
  * Mark Dietzer - Lead Engineer
