@@ -19,6 +19,7 @@
  * Richard Smith - Backend Engineer
  * Hunter Skrasek - Backend Engineer
  * Zack Bonebrake - Backend Engineer
+ * Taylor Blau - Backend Engineer
 
 ### Operations
  * Mark Dietzer - Lead Engineer
